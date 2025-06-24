@@ -77,5 +77,3 @@ Distribuído sob a **Licença de Uso Estudantil**. Consulte o arquivo [LICENSE](
 
 > Desenvolvido por **OrcaFacilLtda** – Parte integrante do ecossistema OrçaFácil  
 > © 2025 Todos os direitos reservados
-```
-
